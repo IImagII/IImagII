@@ -2,7 +2,7 @@
 
 -  :mailbox: Как связаться со мной: [![Telegram Badge](https://img.shields.io/badge/-IAndreI-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/IIIAndIII) [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:55ondron55@gmail.com)
 
-![react](https://img.shields.io/jetbrains/plugin/r/stars/resact?color=red&label=reac&style=for-the-badge)
+[![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma)](https://github.com/ryo-ma/github-profile-trophy)
 
 ### 🤝 Социальные сети:
 
