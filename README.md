@@ -44,7 +44,7 @@
 
 ### ⚙️ GitHub статистика:
 
-![static](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=IImagII&theme=nord_bright)
+![static](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=IImagII&theme=transparent)
 
 <table>
   <tr>
