@@ -2,7 +2,7 @@
 
 -  :mailbox: Как связаться со мной: [![Telegram Badge](https://img.shields.io/badge/-IAndreI-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/IIIAndIII) [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:55ondron55@gmail.com)
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=IImagII&title=Commit,Repositories,Issues)](https://github.com/IImagII)
+[![trophy](https://github-profile-trophy.vercel.app/?username=IImagII&title=Commit,Repositories)](https://github.com/IImagII)
 
 ### 🤝 Социальные сети:
 
