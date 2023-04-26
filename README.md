@@ -4,7 +4,7 @@
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=IImagII&title=Commit,Repositories)](https://github.com/IImagII)
 
-[![static](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username={IImagII}&theme={nord_bright})
+[![static](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=IImagII&theme=nord_bright)
 
 ### 🤝 Социальные сети:
 
