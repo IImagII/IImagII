@@ -5,7 +5,7 @@
       <img src="https://icons8.com/icon/Meg71w7epZVz/portfolio" width="40" height="40" alt="portfolio" />
     </a>
  </div>
- 
+ <br/>
 -  :mailbox: Как связаться со мной: [![Telegram Badge](https://img.shields.io/badge/-IAndreI-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/IIIAndIII) [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:55ondron55@gmail.com)
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=IImagII&title=Commit,Repositories)](https://github.com/IImagII)
