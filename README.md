@@ -2,8 +2,9 @@
 
 <div id="Portfolio">
     <a href="https://app.gitbook.com/o/TbIY7QjeVR4wFYQ6Dq3t/s/KL60OTiohfvspRZcv5Fc/" target="_blank">
+        Portfolio
       <img src="https://img.icons8.com/fluency/512/portfolio.png" width="40" height="40" alt="Portfolio" />
-    </a>
+    </a> 
  </div>
 
 
