@@ -6,9 +6,7 @@
                - My Portfolio
     </a> 
  </div>
-<div id="Portfolio" align="center">
-    [![Portfolio](https://img.icons8.com/fluency/512/portfolio.png){:width="40" height="40"} - My Portfolio](https://app.gitbook.com/o/TbIY7QjeVR4wFYQ6Dq3t/s/KL60OTiohfvspRZcv5Fc/" target="_blank")
-</div>
+
 
 -  :mailbox: How to contact me: [![Telegram Badge](https://img.shields.io/badge/-IAndreI-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/IIIAndIII) [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:55ondron55@gmail.com)
 
