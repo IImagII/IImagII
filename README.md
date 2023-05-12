@@ -11,12 +11,16 @@
 -  :mailbox: How to contact me: [![Telegram Badge](https://img.shields.io/badge/-IAndreI-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/IIIAndIII) [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:55ondron55@gmail.com)
 
 
-
 <p align="center">
   <a href="https://github.com/IImagII">
     <img src="https://github-profile-trophy.vercel.app/?username=IImagII&title=Commit,Repositories"/>
   </a>
 </p>
+<div style="text-align:center">
+  <a href="https://github.com/IImagII">
+    <img src="https://github-profile-trophy.vercel.app/?username=IImagII&title=Commit,Repositories"/>
+  </a>
+</div>
 
 ### 🤝 Social :
 
