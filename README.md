@@ -8,13 +8,13 @@
  </div>
 
 
--  :mailbox: Как связаться со мной: [![Telegram Badge](https://img.shields.io/badge/-IAndreI-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/IIIAndIII) [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:55ondron55@gmail.com)
+-  :mailbox: How to contact me: [![Telegram Badge](https://img.shields.io/badge/-IAndreI-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/IIIAndIII) [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:55ondron55@gmail.com)
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=IImagII&title=Commit,Repositories)](https://github.com/IImagII)
 
 
 
-### 🤝 Социальные сети:
+### 🤝 Social :
 
   <div id="badges">
     <a href="https://www.linkedin.com/in/olkhovski/" target="_blank">
@@ -29,7 +29,7 @@
   
   ---
   
-### 💻 Технологии:
+### 💻 Technology:
 
 <div>
    <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="html5" alt="html5" width="40" height="40"/>&nbsp
@@ -50,7 +50,7 @@
 
 
 
-### ⚙️ GitHub статистика:
+### ⚙️ GitHub statistics:
 
 ![static](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=IImagII&theme=transparent)
 
