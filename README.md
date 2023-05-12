@@ -16,11 +16,7 @@
     <img src="https://github-profile-trophy.vercel.app/?username=IImagII&title=Commit,Repositories"/>
   </a>
 </p>
-<div style="text-align:center">
-  <a href="https://github.com/IImagII">
-    <img src="https://github-profile-trophy.vercel.app/?username=IImagII&title=Commit,Repositories"/>
-  </a>
-</div>
+
 
 ### 🤝 Social :
 
